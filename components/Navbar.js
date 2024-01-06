@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function Navbar() {
     return (
         <nav>
@@ -6,10 +7,15 @@ export default function Navbar() {
                     BasicNextJS
                 </h1>
             </dev>
-            <ul>
-                <li>หน้าแรก</li>
-                <li>เกี่ยวกับเรา</li>
-            </ul>
+            <Link href="/">
+                หน้าแรก
+            </Link>
+            <Link href="/about">
+                เกี่ยวกับเรา
+            </Link>
+            <Link href="/products">
+                สิั้นค้าทั้งหมด
+            </Link>
         </nav>
     )
 }
