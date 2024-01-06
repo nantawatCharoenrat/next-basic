@@ -2,11 +2,11 @@ import Link from "next/link"
 export default function Navbar() {
     return (
         <nav>
-            <dev>
+            <div>
                 <h1>
                     BasicNextJS
                 </h1>
-            </dev>
+            </div>
             <Link href="/">
                 หน้าแรก
             </Link>
