@@ -1,5 +1,38 @@
-body{
+body {
   background-color: black;
-  color: antiquewhite;
+  color: rgb(255, 255, 255);
 }
 
+nav {
+  margin: 10px auto;
+  padding: 10px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #FFE4B5;
+}
+
+nav a {
+  color: #191970;
+  margin-left: 12px;
+  padding: 10px;
+  font-size: 20;
+  text-decoration: none;
+}
+nav a:hover{
+  color:orange;
+}
+
+nav .logo{
+  margin-right: auto;
+  padding-left: 10px;
+}
+
+footer{
+  display: block;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 10px;
+  color: #7c7c7c;
+  border-top: 1px solid #7c7c7c;
+}
