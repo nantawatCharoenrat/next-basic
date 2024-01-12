@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.container div{
+    width: 300px;
+    height: 300px;
+    margin: 30px 15px;
+    background: rgb(53, 116, 172);
+    
+    
+}
+.title{
+    text-align: center;
+    font-size: 1.2em;
+}
+.container div:hover{
+    background: rgb(172, 53, 53);
+    
+}
+
+.LLL{
+    text-decoration: none;
+}
