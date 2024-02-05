@@ -1,7 +1,7 @@
 # ขอบคุณความรู้จากช่อง KongRuksiamOfficial บน YouTube!
 
 ## คลิปที่ให้ความรู้
-[![พัฒนาเว็บด้วย Next.js | สำหรับผู้เริ่มต้น [FULL COURSE]](https://yt3.googleusercontent.com/ytc/AIf8zZSHpbCZAAMr2uv7HENPPWTsLKArvmGZqP5nbgUG=s176-c-k-c0x00ffffff-no-rj)](https://youtu.be/l_DlTj8GzCo?si=68XFYqxhdssHDnVY)
+[![พัฒนาเว็บด้วย Next.js | สำหรับผู้เริ่มต้น [FULL COURSE]]](https://youtu.be/l_DlTj8GzCo?si=68XFYqxhdssHDnVY)
 
 - **วันที่เผยแพร่ครั้งแรก:** 5 มีนาคม 2023
 
